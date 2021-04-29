@@ -6,19 +6,19 @@
 
 ### Personal
 
-* [https://github.com/ZenithalHourlyRate](github.com/ZenithalHourlyRate): Here
-* [https://blog.zenithal.me](blog.zenithal.me): My blog
-* [https://digest.icu](digest.icu): Personal digest
-* [https://thu.services](thu.services): Tsinghua Services/Utils on one page
-* [https://washer.thu.services](washer.thu.services): Tsinghua Washer Status Query
-* [https://ascii.moe](ascii.moe): Online converter for ASCII Art
-* [https://acc.ist](acc.ist)
+* [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): Here
+* [blog.zenithal.me](https://blog.zenithal.me): My blog
+* [digest.icu](https://digest.icu): Personal digest
+* [thu.services](https://thu.services): Tsinghua Services/Utils on one page
+* [washer.thu.services](https://washer.thu.services): Tsinghua Washer Status Query
+* [ascii.moe](https://ascii.moe): Online converter for ASCII Art
+* [acc.ist](https://acc.ist)
 * zhr.im: Internal mail system
 
 ### Organization
 
-* [https://mirrorz.org](mirrorz.org): The final mirror site for mirror sites
+* [mirrorz.org](https://mirrorz.org): The final mirror site for mirror sites
 * iiis.page: Overleaf instance for IIIS related people
-* [https://tuna.moe](tuna.moe): Homepage for TUNA
-* [https://mirrors.tuna.tsinghua.edu.cn](mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
-* [https://canokeys.org](canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
+* [tuna.moe](https://tuna.moe): Homepage for TUNA
+* [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
+* [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
