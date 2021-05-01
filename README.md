@@ -22,3 +22,33 @@
 * [tuna.moe](https://tuna.moe): Homepage for TUNA
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
+
+<!--
+
+### Kernel Contributors that I know
+
+* @ShankerWangMiao
+* @septs
+* @icenowy
+* @sztsian
+* @t123yh
+
+### Kernel Contributors that I find interesting
+
+* Jia-Ju Bai
+* tangzhenhao <tzh18@mails.tsinghua.edu.cn>
+
+### Kernel Fork Maintainer that I know
+
+* @FireflyTang
+
+-->
+
+<!--
+
+### Projects that I provided idea
+
+* <https://github.com/SharzyL/yao-bridge>
+* <https://github.com/SCP-2000/pam-oauth2>
+
+-->
