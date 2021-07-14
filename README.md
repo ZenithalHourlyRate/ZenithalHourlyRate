@@ -63,3 +63,5 @@
 
 * <https://github.com/SharzyL/yao-bridge>
 * <https://github.com/SCP-2000/pam-oauth2>
+* <https://github.com/lynzrand/nadir>
+* <https://github.com/PhotonQuantum/stars>
