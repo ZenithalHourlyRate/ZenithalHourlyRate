@@ -24,7 +24,7 @@
 * iiis.page: Overleaf instance for IIIS related people
 * [tuna.moe](https://tuna.moe): Homepage for TUNA
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
-* [group.tuna.tsinghua.edu.cn/~seminar/](http://group.iiis.tsinghua.edu.cn/~seminar/): Yao Class Seminar
+* [group.tuna.tsinghua.edu.cn/~seminar/](https://group.iiis.tsinghua.edu.cn/~seminar/): Yao Class Seminar
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
 
 ### Kernel Related
