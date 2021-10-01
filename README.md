@@ -73,3 +73,43 @@
 
 * [TUNA Tunight](https://tuna.moe/event/2020/mutt/): [One possible Mutt configuration](https://github.com/ZenithalHourlyRate/muttrc)
 * [USTC LUG 2021 SFD](https://lug.ustc.edu.cn/wiki/lug/events/sfd/#2021-%E5%B9%B4-sfd): [From Mirrors To MirrorZ](https://github.com/ZenithalHourlyRate/sfd)
+
+### Pages that mentioned me
+<details>
+<summary>Click to fold/unfold</summary>
+
+* [20180810|清华录取生郑鈜壬： 效率刷题 组团学习](http://www.21ytv.com/folder36/folder38/2018-08-10/127148.html)
+* [20190226|写作课的“黄埔一期”](https://mp.weixin.qq.com/s/DGX_xYh_vaOJ5LBl-bgp0A)、[20190227|从巴金到爱因斯坦：八字班的第一次写作课](https://www.sohu.com/a/298012077_397252)（最全的一份）
+* [20190326|光明日报|小小写作课，如何生发大能量](https://epaper.gmw.cn/gmrb/html/2019-03/26/nw.D110000gmrb_20190326_4-08.htm) 以及 [20190326|清华大学官网](https://www.tsinghua.edu.cn/info/1182/49704.htm)
+* [20190326|中国教育报|清华大学官网|从容地拓展 优雅地打磨——揭秘清华大学写作课“黄埔一期”](https://www.tsinghua.edu.cn/info/1182/49717.htm) 以及[20190502|清华大学微信公众号|清华写作课：从容地拓展，优雅地打磨](https://mp.weixin.qq.com/s/ED7oyVUS0fze7PAX9osfzg)，两者内容有差别；后者含有报纸报道情况。
+* [20190410|教学教务参考|北京林业大学教务处主办](http://jwc.bjfu.edu.cn/docs/20190411142522366527.pdf)，真是奇妙，这样和别的 edu.cn 有了联系
+* [20190319|茶园官网|论道人工智能，助力实体经济 ——张熠天博士为姚班学子带来立志讲座第一讲](https://iiis.tsinghua.edu.cn/show-7959-1.html)
+* [20191112|2019高教社杯全国大学生数学建模竞赛获奖名单](http://www.mcm.edu.cn/upload_cn/node/552/PxlccSn08fa45acf2cdaa7cf638f088efb289ee3.pdf)，又是一个 edu.cn
+* [基于IPv6自组织网络的科学计算网格研究（2020-2021学年）](https://hep.tsinghua.edu.cn/~orv/teaching.html)
+* [20210522|中科院物理所公众日|入镜](https://www.bilibili.com/video/BV1Cq4y1j7WQ)
+* [20211001|中科院软件所PLCT开源进展·第26期|Firefox On Arch Linux RISC-V](https://zhuanlan.zhihu.com/p/416171522)
+
+#### Reporting Alumni of IIIS
+
+* [20190516|茶园人物 | 吴越：从计科到商科的转换之路](https://iiis.tsinghua.edu.cn/index.php?v=show&cid=661&id=8072)
+* [20190806|茶园人物 | 陈立杰：关于Paper，这是个好问题！](https://mp.weixin.qq.com/s/nZ2nvIgoDkfSdlDtwDBAOg)
+* [20210402|第三期《从茶园走向世界》之李成涛 —— 用科技改变世界是一件浪漫的事情](https://iiis.tsinghua.edu.cn/show-9264-1.html)
+* [20210412|第四期《从茶园走向世界》之龙凡 —— 乐观洒脱，活出别样人生](https://iiis.tsinghua.edu.cn/show-9266-1.html)
+* [20210422|第五期《从茶园走向世界》之马腾宇——十年磨一剑，遥摘万里星](https://iiis.tsinghua.edu.cn/show-9267-1.html)
+* [20210521|第七期《从茶园走向世界》之楼天城——兴趣是个多臂老虎机](https://iiis.tsinghua.edu.cn/show-9270-1.html)
+* [20210719|第十期《从茶园走向世界》之胡渊鸣——图写太极，编译世界](https://iiis.tsinghua.edu.cn/show-9335-1.html)
+
+<!--
+#### Academic
+
+* [ORCID](https://orcid.org/0000-0001-5194-9601)
+* [dblp](https://dblp.org/pid/286/1939.html)
+* [ACM](https://dl.acm.org/profile/99659679839)
+
+#### Blogs
+
+* [洗衣机状态](https://zrt.io/2020/08/wash/)
+* [派的朋友们](https://nya.rs/posts/friends/)
+-->
+
+</details>
