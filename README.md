@@ -68,3 +68,8 @@
 * <https://github.com/SCP-2000/pam-oauth2>
 * <https://github.com/lynzrand/nadir>
 * <https://github.com/PhotonQuantum/stars>
+
+### Talks
+
+* [TUNA Tunight](https://tuna.moe/event/2020/mutt/): [One possible Mutt configuration](https://github.com/ZenithalHourlyRate/muttrc)
+* [USTC LUG 2021 SFD](https://lug.ustc.edu.cn/wiki/lug/events/sfd/#2021-%E5%B9%B4-sfd): [From Mirrors To MirrorZ](https://github.com/ZenithalHourlyRate/sfd)
