@@ -85,6 +85,7 @@
 * [20190410|教学教务参考|北京林业大学教务处主办](http://jwc.bjfu.edu.cn/docs/20190411142522366527.pdf)，真是奇妙，这样和别的 edu.cn 有了联系
 * [20190319|茶园官网|论道人工智能，助力实体经济 ——张熠天博士为姚班学子带来立志讲座第一讲](https://iiis.tsinghua.edu.cn/show-7959-1.html)
 * [20191112|2019高教社杯全国大学生数学建模竞赛获奖名单](http://www.mcm.edu.cn/upload_cn/node/552/PxlccSn08fa45acf2cdaa7cf638f088efb289ee3.pdf)，又是一个 edu.cn
+* [20200930|20190930照片|知乎|如何评价清华大学学堂路一学生边骑车边操作笔记本电脑？](https://www.zhihu.com/question/423521280/answer/1500832620)
 * [基于IPv6自组织网络的科学计算网格研究（2020-2021学年）](https://hep.tsinghua.edu.cn/~orv/teaching.html)
 * [20210522|中科院物理所公众日|入镜](https://www.bilibili.com/video/BV1Cq4y1j7WQ)
 * [20211001|中科院软件所PLCT开源进展·第26期|Firefox On Arch Linux RISC-V](https://zhuanlan.zhihu.com/p/416171522)
