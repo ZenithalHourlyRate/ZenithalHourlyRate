@@ -111,6 +111,7 @@
 
 * [洗衣机状态](https://zrt.io/2020/08/wash/)
 * [派的朋友们](https://nya.rs/posts/friends/)
+* [YubiKey 5 NFC 开箱](https://awsl.blog/2021/yubikey)
 -->
 
 </details>
