@@ -48,6 +48,7 @@
 * @sztsian
 * @t123yh
 * @twd2
+* @FantasqueX
 
 #### Kernel Contributors that I find interesting
 
