@@ -90,6 +90,7 @@
 * [基于IPv6自组织网络的科学计算网格研究（2020-2021学年）](https://hep.tsinghua.edu.cn/~orv/teaching.html)
 * [20210522|中科院物理所公众日|入镜](https://www.bilibili.com/video/BV1Cq4y1j7WQ)
 * [20211001|中科院软件所PLCT开源进展·第26期|Firefox On Arch Linux RISC-V](https://zhuanlan.zhihu.com/p/416171522)
+* [20211216|RocketChip-IBUF架构初探](https://www.bilibili.com/video/BV1nL411j7wC)
 
 #### Reporting Alumni of IIIS
 
