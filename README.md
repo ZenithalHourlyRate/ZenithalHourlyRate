@@ -40,6 +40,12 @@
 
 * [ipv6: report errors for iftoken via netlink extack](https://github.com/torvalds/linux/commit/3583a4e8d77d44697a21437227dd53fc6e7b2cb5)
 
+#### Git Commits that related to me
+
+* [git-apply: skip threeway in add / rename cases](https://github.com/git/git/commit/34d607032c0db6a6c68754e7a339c3caf08d6a79)
+
+<!--
+
 #### Kernel Contributors that I know
 
 * @icenowy
@@ -53,7 +59,7 @@
 #### Kernel Contributors that I find interesting
 
 * Jia-Ju Bai
-* tangzhenhao <!--<tzh18@mails.tsinghua.edu.cn>-->
+* tangzhenhao <tzh18@mails.tsinghua.edu.cn>
 
 #### Kernel Fork Maintainer that I know
 
@@ -61,7 +67,11 @@
 * @icenowy
 * @cyyself
 
+-->
+
 </details>
+
+<!--
 
 ### Projects that I provided idea
 
@@ -69,6 +79,8 @@
 * <https://github.com/SCP-2000/pam-oauth2>
 * <https://github.com/lynzrand/nadir>
 * <https://github.com/PhotonQuantum/stars>
+
+-->
 
 ### Talks
 
