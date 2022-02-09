@@ -55,6 +55,7 @@
 * @t123yh
 * @twd2
 * @FantasqueX
+* @981213
 
 #### Kernel Contributors that I find interesting
 
