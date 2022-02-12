@@ -13,9 +13,9 @@
 * [thu.services](https://thu.services): Tsinghua Services/Utils on one page
 * [washer.thu.services](https://washer.thu.services): Tsinghua Washer Status Query
 * [ascii.moe](https://ascii.moe): Online converter for ASCII Art
-* [acc.ist](https://acc.ist)
 * zhr.im: Internal mail system
 * z.dn42: See [DNS42](https://github.com/ZenithalHourlyRate/dns42) for more info
+<!--* [acc.ist](https://acc.ist)-->
 
 ### Organization
 
