@@ -23,7 +23,7 @@
 * [mirrors.cngi.edu.cn](https://mirrors.cngi.edu.cn): 教育网镜像站们
 * [tuna.moe](https://tuna.moe): Homepage for TUNA
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
-* [group.tuna.tsinghua.edu.cn/~seminar/](https://group.iiis.tsinghua.edu.cn/~seminar/): Yao Class Seminar
+* [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
 
 ### Kernel Related
