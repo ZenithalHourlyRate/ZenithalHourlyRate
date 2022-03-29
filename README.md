@@ -105,6 +105,7 @@
 * [20210522|中科院物理所公众日|入镜](https://www.bilibili.com/video/BV1Cq4y1j7WQ)
 * [20211001|中科院软件所PLCT开源进展·第26期|Firefox On Arch Linux RISC-V](https://zhuanlan.zhihu.com/p/416171522)
 * [20211216|RocketChip-IBUF架构初探](https://www.bilibili.com/video/BV1nL411j7wC)
+* [20220202|探究指令集设计：以RVK为例](https://www.bilibili.com/video/BV1vZ4y1Z7Y7)
 
 #### Reporting Alumni of IIIS
 
