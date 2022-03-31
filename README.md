@@ -88,6 +88,7 @@
 * [TUNA Tunight](https://tuna.moe/event/2020/mutt/): [One possible Mutt configuration](https://github.com/ZenithalHourlyRate/muttrc)
 * [USTC LUG 2021 SFD](https://lug.ustc.edu.cn/wiki/lug/events/sfd/#2021-%E5%B9%B4-sfd): [From Mirrors To MirrorZ](https://github.com/ZenithalHourlyRate/sfd)
 * [PLCT Open Report](https://github.com/plctlab/PLCT-Open-Reports#20220112---canokey---%E9%83%91%E9%88%9C%E5%A3%AC): [CanoKey: Application, Code and Implementation](https://www.bilibili.com/video/BV1BF411v7qt)
+* [Learn Git The Not So Super Hard Way](https://github.com/ZenithalHourlyRate/learn-git-the-not-so-super-hard-way)
 
 ### Pages that mentioned me
 <details>
