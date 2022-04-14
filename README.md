@@ -24,6 +24,7 @@
 * [mirrors.cngi.edu.cn](https://mirrors.cngi.edu.cn): 教育网镜像站们
 * [tuna.moe](https://tuna.moe): Homepage for TUNA
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
+* [mirrors.bfsu.edu.cn](https://mirrors.bfsu.edu.cn): BFSU Open Source Mirrors
 * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
 * [archriscv.felixc.at](https://archriscv.felixc.at): Arch Linux RISC-V
