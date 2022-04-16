@@ -135,6 +135,11 @@
 * [派的朋友们](https://nya.rs/posts/friends/)
 * [YubiKey 5 NFC 开箱](https://awsl.blog/2021/yubikey)
 * [公告一则（人工置顶）](https://blog.lhp-pku.top/2021/11/08/%E5%85%AC%E5%91%8A/)
+
+#### Popular messages
+
+* [DNS666事关全國數萬名網友的牛子](https://github.com/tuna/collection/issues/190)
+* [关于移除 AUR 镜像的通知](https://mirrors.tuna.tsinghua.edu.cn/news/remove-aur/)
 -->
 
 </details>
