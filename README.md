@@ -60,6 +60,10 @@
 * @twd2
 * @FantasqueX
 * @981213
+* @xctan
+* @dramforever
+* @Ruizhe Pan
+* @CoelacanthusHex
 
 #### Kernel Contributors that I find interesting
 
