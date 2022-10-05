@@ -22,7 +22,6 @@
 
 * [mirrorz.org](https://mirrorz.org): The final mirror site for mirror sites
 * [mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
-* [mirrors.cngi.edu.cn](https://mirrors.cngi.edu.cn): 教育网镜像站们
 * [tuna.moe](https://tuna.moe): Homepage for TUNA
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
 * [mirrors.bfsu.edu.cn](https://mirrors.bfsu.edu.cn): BFSU Open Source Mirrors
