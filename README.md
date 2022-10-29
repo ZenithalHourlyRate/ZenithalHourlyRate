@@ -42,6 +42,7 @@
 #### Kernel Commits that related to me
 
 * [ipv6: report errors for iftoken via netlink extack](https://github.com/torvalds/linux/commit/3583a4e8d77d44697a21437227dd53fc6e7b2cb5)
+* [usbip: add USBIP\_URB_\* URB transfer flags](https://github.com/torvalds/linux/commit/8f36b3b4e1b58dca7d05e1579019230437e55d43)
 
 #### Git Commits that related to me
 
