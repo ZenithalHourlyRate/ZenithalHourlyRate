@@ -33,24 +33,24 @@
 <details>
 <summary>Click to fold/unfold</summary>
 
-#### Kernel Commits that I authored
+#### Kernel Commits I authored
 
 * [docs: usbip: Fix major fields and descriptions in protocol](https://github.com/torvalds/linux/commit/17af793217a68ce344c46e1f96c86587011d6785)
 * [usbip: tools: add options and examples in man page related to device mode](https://github.com/torvalds/linux/commit/b737eecd4a8a62c7e479b2c7d2d1a1319343c72b)
 * [usbip: tools: add usage of device mode in usbip\_list.c](https://github.com/torvalds/linux/commit/a58977b2f831e931b3f9268e3051c875ec00f800)
 
-#### Kernel Commits that related to me
+#### Kernel Commits related to me
 
 * [ipv6: report errors for iftoken via netlink extack](https://github.com/torvalds/linux/commit/3583a4e8d77d44697a21437227dd53fc6e7b2cb5)
 * [usbip: add USBIP\_URB_\* URB transfer flags](https://github.com/torvalds/linux/commit/8f36b3b4e1b58dca7d05e1579019230437e55d43)
 
-#### Git Commits that related to me
+#### Git Commits related to me
 
 * [git-apply: skip threeway in add / rename cases](https://github.com/git/git/commit/34d607032c0db6a6c68754e7a339c3caf08d6a79)
 
 <!--
 
-#### Kernel Contributors that I know
+#### Kernel Contributors I know
 
 * @icenowy
 * @ShankerWangMiao
@@ -66,12 +66,12 @@
 * @CoelacanthusHex
 * @nanpuyue
 
-#### Kernel Contributors that I find interesting
+#### Kernel Contributors I find interesting
 
 * Jia-Ju Bai
 * tangzhenhao <tzh18@mails.tsinghua.edu.cn>
 
-#### Kernel Fork Maintainer that I know
+#### Kernel Fork Maintainer I know
 
 * @FireflyTang
 * @icenowy
@@ -83,7 +83,7 @@
 
 <!--
 
-### Projects that I provided idea
+### Projects I provided idea
 
 * <https://github.com/SharzyL/yao-bridge>
 * <https://github.com/SCP-2000/pam-oauth2>
@@ -100,7 +100,7 @@
 * [Learn Git The Not So Super Hard Way](https://github.com/ZenithalHourlyRate/learn-git-the-not-so-super-hard-way)
 * [RVSC22](https://riscv-summit-china.com/cn/agenda.html): [OpenRigil: Open Source RISC-V Cryptographic Hardware Token](https://www.bilibili.com/video/BV13N4y1F75M)
 
-### Pages that mentioned me
+### Pages mentioning me
 <details>
 <summary>Click to fold/unfold</summary>
 
