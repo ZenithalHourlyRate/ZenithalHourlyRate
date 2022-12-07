@@ -64,6 +64,7 @@
 * @dramforever
 * @Ruizhe Pan
 * @CoelacanthusHex
+* @nanpuyue
 
 #### Kernel Contributors that I find interesting
 
