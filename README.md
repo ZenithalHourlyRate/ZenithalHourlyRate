@@ -65,6 +65,7 @@
 * @Ruizhe Pan
 * @CoelacanthusHex
 * @nanpuyue
+* @moesoha
 
 #### Kernel Contributors I find interesting
 
