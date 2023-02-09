@@ -22,11 +22,13 @@
 
 * [mirrorz.org](https://mirrorz.org): The final mirror site for mirror sites
 * [mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
-* [tuna.moe](https://tuna.moe): Homepage for TUNA
+* [tuna.moe](https://tuna.moe): Tsinghua University TUNA Association (TUNA)
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
 * [mirrors.bfsu.edu.cn](https://mirrors.bfsu.edu.cn): BFSU Open Source Mirrors
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
+* OpenRigil: Open Source Hardware Security Token, in RISC-V
 * [archriscv.felixc.at](https://archriscv.felixc.at): Arch Linux RISC-V
+* [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
 
 ### Kernel Related
