@@ -147,6 +147,7 @@
 * [派的朋友们](https://nya.rs/posts/friends/)
 * [YubiKey 5 NFC 开箱](https://awsl.blog/2021/yubikey)
 * [公告一则（人工置顶）](https://blog.lhp-pku.top/2021/11/08/%E5%85%AC%E5%91%8A/)
+* [THU 半日游：参加 tunight 杂记](https://blog.taoky.moe/2021-04-18/tunight.html)
 
 #### Popular messages
 
