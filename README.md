@@ -26,7 +26,7 @@
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
 * [mirrors.bfsu.edu.cn](https://mirrors.bfsu.edu.cn): BFSU Open Source Mirrors
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
-* OpenRigil: Open Source Hardware Security Token, in RISC-V
+* [openrigil.org](https://openrigil.org): Open Source Hardware Security Token, in RISC-V
 * [archriscv.felixc.at](https://archriscv.felixc.at): Arch Linux RISC-V
 * [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
