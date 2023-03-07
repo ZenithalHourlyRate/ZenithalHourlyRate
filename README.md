@@ -68,6 +68,7 @@
 * @CoelacanthusHex
 * @nanpuyue
 * @moesoha
+* @guoren83
 
 #### Kernel Contributors I find interesting
 
