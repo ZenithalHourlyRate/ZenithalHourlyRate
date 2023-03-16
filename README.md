@@ -125,6 +125,8 @@
 * [20220328|lazyparser/weloveinterns/outstanding-interns/Senior Interns and LV5](https://github.com/lazyparser/weloveinterns/blob/master/outstanding-interns.md)
 * [20220904|Implementing RISC-V Scalar Cryptography/Bitmanip extensions in Chisel, CCC2022](https://www.youtube.com/watch?v=hXaZMQPRXo0)
 * [20230217|Mingyu Gao | Students](https://people.iiis.tsinghua.edu.cn/~gaomy/students.html)
+* [20230225|CRVA 联盟年会|SG2042 虚拟化扩展软件模拟](https://mp.weixin.qq.com/s/BrdA0snRurihqVwbUfQ7Iw)
+* [20230308|开放连接玄铁 RISC-V 生态大会|无情开评|出镜](https://www.bilibili.com/video/BV15M411s7kb)
 
 #### Reporting Alumni of IIIS
 
