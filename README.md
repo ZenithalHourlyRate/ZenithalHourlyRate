@@ -20,8 +20,8 @@
 
 ### Organization
 
-* [mirrorz.org](https://mirrorz.org): The final mirror site for mirror sites
-* [mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
+* [mirrorz.org](https://mirrorz.org), [mirrors.help](https://mirrors.help): The final mirror site for mirror sites
+* \[[help.](https://help.mirrors.cernet.edu.cn)\][mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
 * [tuna.moe](https://tuna.moe): Tsinghua University TUNA Association (TUNA)
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
 * [mirrors.bfsu.edu.cn](https://mirrors.bfsu.edu.cn): BFSU Open Source Mirrors
