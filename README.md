@@ -40,7 +40,7 @@
 * [docs: usbip: Fix major fields and descriptions in protocol](https://github.com/torvalds/linux/commit/17af793217a68ce344c46e1f96c86587011d6785)
 * [usbip: tools: add options and examples in man page related to device mode](https://github.com/torvalds/linux/commit/b737eecd4a8a62c7e479b2c7d2d1a1319343c72b)
 * [usbip: tools: add usage of device mode in usbip\_list.c](https://github.com/torvalds/linux/commit/a58977b2f831e931b3f9268e3051c875ec00f800)
-<!-- MAINTAINERS: make me a reviewer of USB/IP: to hit mainline -->
+* [MAINTAINERS: make me a reviewer of USB/IP](https://github.com/torvalds/linux/commit/c3aa32ac86fe5f27659f07474995ec743a3251b0)
 
 #### Kernel Commits related to me
 
