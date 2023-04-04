@@ -127,6 +127,7 @@
 * [20230217|Mingyu Gao | Students](https://people.iiis.tsinghua.edu.cn/~gaomy/students.html)
 * [20230225|CRVA 联盟年会|SG2042 虚拟化扩展软件模拟](https://mp.weixin.qq.com/s/BrdA0snRurihqVwbUfQ7Iw)
 * [20230308|开放连接玄铁 RISC-V 生态大会|无情开评|出镜](https://www.bilibili.com/video/BV15M411s7kb)
+* [20230404|中科院软件所的 RISC-V Toolchains 的国内镜像](https://mp.weixin.qq.com/s/q7aAJLfHJ6JFw_8dhHD97Q)
 
 #### Reporting Alumni of IIIS
 
