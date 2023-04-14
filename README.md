@@ -35,6 +35,30 @@
 
 As I have different roles in different organizations, I have a variety of TODOs (坑) and am looking for interns/volunteers. They are good ways to kill your time (摸鱼)! Welcome to join Felix Universe! If you are interested, please send me a short introduction email with your CV/GitHub.
 
+<details>
+<summary>Click to fold/unfold</summary>
+
+「我觉得很多人闲着也是闲着，不如来我这干活」
+
+#### TODO
+
+* [MirrorZ](https://github.com/search?q=user%3Amirrorz-org+state%3Aopen&type=Issues)
+* USB/IP
+  + Implement USB/IP in QEMU
+  + Implement USB/IP in TinyUSB
+* [OpenPGP card | Add CanoKey in CI](https://gitlab.com/hkos/openpgp-card/-/issues/4)
+* OpenRigil
+  + More functionalities in Sipeed Tang Primer 20K
+  + Migrate to Sipeed Tang Nano 20K
+* Rocket-Chip
+  + aclint
+  + many more
+* RISC-V
+  + many more
+* [Others](https://github.com/search?q=author%3AZenithalHourlyRate+state%3Aopen&type=Issues)
+
+</details>
+
 ### Kernel Related
 <details>
 <summary>Click to fold/unfold</summary>
