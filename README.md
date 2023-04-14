@@ -31,6 +31,10 @@
 * [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
 
+### Recruiting for Felix Universe
+
+As I have different roles in different organizations, I have a variety of TODOs (坑) and am looking for interns/volunteers. They are good ways to kill your time (摸鱼)! Welcome to join Felix Universe! If you are interested, please send me a short introduction email with your CV/GitHub.
+
 ### Kernel Related
 <details>
 <summary>Click to fold/unfold</summary>
