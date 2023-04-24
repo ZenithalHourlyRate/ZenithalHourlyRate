@@ -42,6 +42,8 @@ As I have different roles in different organizations, I have a variety of TODOs 
 
 #### TODO
 
+* Rocket-Chip: Make it flagship again! like spike
+  + Implementation of new ISA extensions/Controllers/Periphery
 * [MirrorZ](https://github.com/search?q=user%3Amirrorz-org+state%3Aopen&type=Issues)
 * USB/IP
   + Implement USB/IP in QEMU
@@ -50,9 +52,6 @@ As I have different roles in different organizations, I have a variety of TODOs 
 * OpenRigil
   + More functionalities in Sipeed Tang Primer 20K
   + Migrate to Sipeed Tang Nano 20K
-* Rocket-Chip
-  + aclint
-  + many more
 * RISC-V
   + many more
 * [Others](https://github.com/search?q=author%3AZenithalHourlyRate+state%3Aopen&type=Issues)
