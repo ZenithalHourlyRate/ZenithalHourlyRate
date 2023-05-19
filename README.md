@@ -48,7 +48,6 @@ As I have different roles in different organizations, I have a variety of TODOs 
 * USB/IP
   + Implement USB/IP in QEMU
   + Implement USB/IP in TinyUSB
-* [OpenPGP card | Add CanoKey in CI](https://gitlab.com/hkos/openpgp-card/-/issues/4)
 * OpenRigil
   + More functionalities in Sipeed Tang Primer 20K
   + Migrate to Sipeed Tang Nano 20K
