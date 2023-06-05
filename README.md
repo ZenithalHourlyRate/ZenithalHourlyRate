@@ -31,9 +31,9 @@
 * [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
 
-### Recruiting for Felix Universe
+### Recruiting for Felix Universe (肥猫宇宙)
 
-As I have different roles in different organizations, I have a variety of TODOs (坑) and am looking for interns/volunteers. They are good ways to kill your time (摸鱼)! Welcome to join Felix Universe! If you are interested, please send me a short introduction email with your CV/GitHub.
+As I have different roles in different organizations, I have a variety of TODOs (挖坑不填) and am looking for interns and/or volunteers. They are good ways to kill your time (娱乐摸鱼打黑工)! Welcome to join Felix Universe! If you are interested, please send me a short introduction email with your CV/GitHub.
 
 <details>
 <summary>Click to fold/unfold</summary>
@@ -57,6 +57,12 @@ As I have different roles in different organizations, I have a variety of TODOs 
 
 </details>
 
+### Free Services to Make a Friend (交个朋友)
+
+I like to chat (面基), have dinner (约饭) and work (业务) with different people with varying levels and backgrounds, to learn unique views and insights; I will do some job, either small or big, for your business, for free, just for making a friend, and for knowing you better. If you find me valuable and want me to do something for you, just send me an email!
+
+<!--
+
 ### Kernel Related
 <details>
 <summary>Click to fold/unfold</summary>
@@ -77,7 +83,6 @@ As I have different roles in different organizations, I have a variety of TODOs 
 
 * [git-apply: skip threeway in add / rename cases](https://github.com/git/git/commit/34d607032c0db6a6c68754e7a339c3caf08d6a79)
 
-<!--
 
 #### Kernel Contributors I know
 
@@ -108,9 +113,9 @@ As I have different roles in different organizations, I have a variety of TODOs 
 * @icenowy
 * @cyyself
 
--->
-
 </details>
+
+-->
 
 <!--
 
