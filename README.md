@@ -101,11 +101,11 @@ I like to chat (面基), have dinner (约饭) and work (业务) with different p
 * @nanpuyue
 * @moesoha
 * @guoren83
+* @cthbleachbit
 
 #### Kernel Contributors I find interesting
 
 * Jia-Ju Bai
-* tangzhenhao <tzh18@mails.tsinghua.edu.cn>
 
 #### Kernel Fork Maintainer I know
 
