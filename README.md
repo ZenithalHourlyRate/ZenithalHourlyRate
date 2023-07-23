@@ -6,21 +6,24 @@
 
 ### Personal
 
-* mirrors.{[bj](https://mirrors.bj.cn),[tj](https://mirrors.tj.cn),[sh](https://mirrors.sh.cn),[cq](https://mirrors.cq.cn),[he](https://mirrors.he.cn),[ha](https://mirrors.ha.cn),[sx](https://mirrors.sx.cn),[nm](https://mirrors.nm.cn),[ln](https://mirrors.ln.cn),[jl](https://mirrors.jl.cn),[hl](https://mirrors.hl.cn),[js](https://mirrors.js.cn),[zj](https://mirrors.zj.cn),[ah](https://mirrors.ah.cn),[fj](https://mirrors.fj.cn),[jx](https://mirrors.jx.cn),[sd](https://mirrors.sd.cn),[hb](https://mirrors.hb.cn),[hn](https://mirrors.hn.cn),[gd](https://mirrors.gd.cn),[gx](https://mirrors.gx.cn),[hi](https://mirrors.hi.cn),[sc](https://mirrors.sc.cn),[gz](https://mirrors.gz.cn),[yn](https://mirrors.yn.cn),[xz](https://mirrors.xz.cn),[sn](https://mirrors.sn.cn),[gs](https://mirrors.gs.cn),[qh](https://mirrors.qh.cn),[nx](https://mirrors.nx.cn),[xj](https://mirrors.xj.cn),[tw](https://mirrors.tw.cn),[hk](https://mirrors.hk.cn),[mo](https://mirrors.mo.cn)}.cn: [Mirror sites of Provinces of China](https://github.com/ZenithalHourlyRate/mirrors.cn)
+<!-- * mirrors.{[bj](https://mirrors.bj.cn),[tj](https://mirrors.tj.cn),[sh](https://mirrors.sh.cn),[cq](https://mirrors.cq.cn),[he](https://mirrors.he.cn),[ha](https://mirrors.ha.cn),[sx](https://mirrors.sx.cn),[nm](https://mirrors.nm.cn),[ln](https://mirrors.ln.cn),[jl](https://mirrors.jl.cn),[hl](https://mirrors.hl.cn),[js](https://mirrors.js.cn),[zj](https://mirrors.zj.cn),[ah](https://mirrors.ah.cn),[fj](https://mirrors.fj.cn),[jx](https://mirrors.jx.cn),[sd](https://mirrors.sd.cn),[hb](https://mirrors.hb.cn),[hn](https://mirrors.hn.cn),[gd](https://mirrors.gd.cn),[gx](https://mirrors.gx.cn),[hi](https://mirrors.hi.cn),[sc](https://mirrors.sc.cn),[gz](https://mirrors.gz.cn),[yn](https://mirrors.yn.cn),[xz](https://mirrors.xz.cn),[sn](https://mirrors.sn.cn),[gs](https://mirrors.gs.cn),[qh](https://mirrors.qh.cn),[nx](https://mirrors.nx.cn),[xj](https://mirrors.xj.cn),[tw](https://mirrors.tw.cn),[hk](https://mirrors.hk.cn),[mo](https://mirrors.mo.cn)}.cn: [Mirror sites of Provinces of China](https://github.com/ZenithalHourlyRate/mirrors.cn) -->
 * [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): Here
 * [blog.zenithal.me](https://blog.zenithal.me): My blog
 * [zheng.hong.ren](https://zheng.hong.ren): 简历
 * [zenithal.me](https://zenithal.me): Resume
+<!--
 * [thu.services](https://thu.services): Tsinghua Services/Utils on one page
 * [digest.icu](https://digest.icu): Personal digest
 * [ascii.moe](https://ascii.moe): Online converter for ASCII Art
 * zhr.im: Internal mail system
 * z.dn42: See [DNS42](https://github.com/ZenithalHourlyRate/dns42) for more info
-<!--* [acc.ist](https://acc.ist)-->
+* [acc.ist](https://acc.ist)
+-->
 
 ### Organization
 
 * [mirrorz.org](https://mirrorz.org), [mirrors.help](https://mirrors.help): The final mirror site for mirror sites
+<!--
 * \[[help.](https://help.mirrors.cernet.edu.cn)\][mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
 * [tuna.moe](https://tuna.moe): Tsinghua University TUNA Association (TUNA)
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
@@ -28,9 +31,11 @@
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
 * [openrigil.org](https://openrigil.org): Open Source Hardware Security Token, in RISC-V
 * [archriscv.felixc.at](https://archriscv.felixc.at): Arch Linux RISC-V
+-->
 * [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
 
+<!--
 ### Recruiting for Felix Universe (肥猫宇宙)
 
 As I have different roles in different organizations, I have a variety of TODOs (挖坑不填) and am looking for interns and/or volunteers. They are good ways to kill your time (娱乐摸鱼打黑工)! Welcome to join Felix Universe! If you are interested, please send me a short introduction email with your CV/GitHub.
@@ -60,6 +65,7 @@ As I have different roles in different organizations, I have a variety of TODOs 
 ### Free Services to Make a Friend (交个朋友)
 
 I like to chat (面基), have dinner (约饭) and work (业务) with different people with varying levels and backgrounds, to learn unique views and insights; I will do some job, either small or big, for your business, for free, just for making a friend, and for knowing you better. If you find me valuable and want me to do something for you, just send me an email!
+-->
 
 <!--
 
@@ -128,6 +134,7 @@ I like to chat (面基), have dinner (约饭) and work (业务) with different p
 
 -->
 
+<!--
 ### Talks
 
 * [TUNA Tunight](https://tuna.moe/event/2020/mutt/): [One possible Mutt configuration](https://github.com/ZenithalHourlyRate/muttrc)
@@ -169,6 +176,7 @@ I like to chat (面基), have dinner (约饭) and work (业务) with different p
 * [20210422|第五期《从茶园走向世界》之马腾宇——十年磨一剑，遥摘万里星](https://iiis.tsinghua.edu.cn/show-9267-1.html)
 * [20210521|第七期《从茶园走向世界》之楼天城——兴趣是个多臂老虎机](https://iiis.tsinghua.edu.cn/show-9270-1.html)
 * [20210719|第十期《从茶园走向世界》之胡渊鸣——图写太极，编译世界](https://iiis.tsinghua.edu.cn/show-9335-1.html)
+-->
 
 <!--
 #### Academic
@@ -191,4 +199,6 @@ I like to chat (面基), have dinner (约饭) and work (业务) with different p
 * [关于移除 AUR 镜像的通知](https://mirrors.tuna.tsinghua.edu.cn/news/remove-aur/)
 -->
 
+<!--
 </details>
+-->
