@@ -23,6 +23,7 @@
 ### Organization
 
 * [mirrorz.org](https://mirrorz.org), [mirrors.help](https://mirrors.help): The final mirror site for mirror sites
+* [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
 <!--
 * \[[help.](https://help.mirrors.cernet.edu.cn)\][mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
 * [tuna.moe](https://tuna.moe): Tsinghua University TUNA Association (TUNA)
@@ -31,9 +32,8 @@
 * [canokeys.org](https://canokeys.org): Open Source Hardware Security Token (OpenPGP, PIV, WebAuthn)
 * [openrigil.org](https://openrigil.org): Open Source Hardware Security Token, in RISC-V
 * [archriscv.felixc.at](https://archriscv.felixc.at): Arch Linux RISC-V
+* [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar
 -->
-* [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
-<!-- * [group.iiis.tsinghua.edu.cn/~stu/seminar/](https://group.iiis.tsinghua.edu.cn/~stu/seminar/): Yao Class Seminar -->
 
 <!--
 ### Recruiting for Felix Universe (肥猫宇宙)
