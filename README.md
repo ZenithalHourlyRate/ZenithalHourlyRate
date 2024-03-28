@@ -20,11 +20,11 @@
 * [acc.ist](https://acc.ist)
 -->
 
+<!--
 ### Organization
 
 * [mirrorz.org](https://mirrorz.org), [mirrors.help](https://mirrors.help): The final mirror site for mirror sites
 * [chipsalliance.org](https://chipsalliance.org): CHIPS Alliance, mainly on Rocket-Chip
-<!--
 * \[[help.](https://help.mirrors.cernet.edu.cn)\][mirrors.cernet.edu.cn](https://mirrors.cernet.edu.cn): 校园网联合镜像站
 * [tuna.moe](https://tuna.moe): Tsinghua University TUNA Association (TUNA)
 * [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn): TUNA Open Source Mirrors
