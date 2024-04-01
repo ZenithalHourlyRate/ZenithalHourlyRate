@@ -9,8 +9,8 @@
 <!-- * mirrors.{[bj](https://mirrors.bj.cn),[tj](https://mirrors.tj.cn),[sh](https://mirrors.sh.cn),[cq](https://mirrors.cq.cn),[he](https://mirrors.he.cn),[ha](https://mirrors.ha.cn),[sx](https://mirrors.sx.cn),[nm](https://mirrors.nm.cn),[ln](https://mirrors.ln.cn),[jl](https://mirrors.jl.cn),[hl](https://mirrors.hl.cn),[js](https://mirrors.js.cn),[zj](https://mirrors.zj.cn),[ah](https://mirrors.ah.cn),[fj](https://mirrors.fj.cn),[jx](https://mirrors.jx.cn),[sd](https://mirrors.sd.cn),[hb](https://mirrors.hb.cn),[hn](https://mirrors.hn.cn),[gd](https://mirrors.gd.cn),[gx](https://mirrors.gx.cn),[hi](https://mirrors.hi.cn),[sc](https://mirrors.sc.cn),[gz](https://mirrors.gz.cn),[yn](https://mirrors.yn.cn),[xz](https://mirrors.xz.cn),[sn](https://mirrors.sn.cn),[gs](https://mirrors.gs.cn),[qh](https://mirrors.qh.cn),[nx](https://mirrors.nx.cn),[xj](https://mirrors.xj.cn),[tw](https://mirrors.tw.cn),[hk](https://mirrors.hk.cn),[mo](https://mirrors.mo.cn)}.cn: [Mirror sites of Provinces of China](https://github.com/ZenithalHourlyRate/mirrors.cn) -->
 * [github.com/ZenithalHourlyRate](https://github.com/ZenithalHourlyRate): Here
 * [blog.zenithal.me](https://blog.zenithal.me): My blog
-* [zheng.hong.ren](https://zheng.hong.ren): 简历
-* [zenithal.me](https://zenithal.me): Resume
+* [zheng.hong.ren](https://zheng.hong.ren): Real life
+* [i.zenithal.me](https://zenithal.me): Digital life
 <!--
 * [thu.services](https://thu.services): Tsinghua Services/Utils on one page
 * [digest.icu](https://digest.icu): Personal digest
