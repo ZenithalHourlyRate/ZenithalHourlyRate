@@ -109,6 +109,7 @@ I like to chat (面基), have dinner (约饭) and work (业务) with different p
 * @moesoha
 * @guoren83
 * @cthbleachbit
+* @iBug
 
 #### Kernel Contributors I find interesting
 
